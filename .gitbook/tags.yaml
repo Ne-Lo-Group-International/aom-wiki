@@ -1,0 +1,27 @@
+- tag: fundamental
+  label: Fundamental
+- tag: part
+  label: Section
+- tag: section
+  label: Sub-section
+- tag: company-strategy
+  label: Company Strategy
+  color: orange
+- tag: brand-strategy
+  label: Brand Strategy
+  color: yellow
+- tag: brand-expression
+  label: Brand Expression
+  color: green
+- tag: execution-4ps
+  label: Execution (4Ps)
+  color: blue
+- tag: data-and-insights
+  label: Data & Insights
+  color: purple
+- tag: investment
+  label: Investment
+  color: red
+- tag: tool
+  label: Tool
+  icon: hammer
