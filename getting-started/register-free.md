@@ -13,6 +13,7 @@ layout:
   cover:
     visible: false
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -20,7 +21,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
   metadata:
