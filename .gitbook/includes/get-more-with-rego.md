@@ -7,5 +7,5 @@ title: '[ Get More with Rego ]'
 
 Access high resolution frameworks, AI resources, community, course materials, and a pathway into structured AoM training. Free to register, no payment required.
 
-<a href="https://anatomyofmarketing.org/training" class="button secondary" data-icon="user">Register Free</a>
+<a href="../../applying-aom/using-aom-with-ai.md" class="button secondary" data-icon="user">Register Free</a>
 {% endhint %}
