@@ -8,6 +8,7 @@ layout:
   cover:
     visible: false
     size: full
+    mask: none
   title:
     visible: true
   description:

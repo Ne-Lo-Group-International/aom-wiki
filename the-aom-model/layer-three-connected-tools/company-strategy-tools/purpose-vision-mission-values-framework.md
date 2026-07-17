@@ -9,6 +9,7 @@ layout:
   cover:
     visible: false
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -33,7 +34,7 @@ tags:
 
 # Purpose/Vision/Mission/Values Framework
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AoM_CompanyStrategy_PurposeVisionMissionValues.png" alt="AoM Purpose/Vision/Mission/Values Framework tool, a blank template mapping the four statements, Purpose, Vision, Mission, and Values, each against its company narrative prompt and organisational function, Inspirational, Aspirational, Strategic, and Behavioural."><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AoM_CompanyStrategy_Purpose-Vision-Mission-Values Framework_Post image_840x470.png" alt="AoM Purpose/Vision/Mission/Values Framework tool, a blank template mapping the four statements, Purpose, Vision, Mission, and Values, each against its company narrative prompt and organisational function, Inspirational, Aspirational, Strategic, and Behavioural."><figcaption></figcaption></figure></div>
 
 {% include "../../../.gitbook/includes/get-more-with-rego.md" %}
 
