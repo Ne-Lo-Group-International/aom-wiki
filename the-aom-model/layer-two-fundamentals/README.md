@@ -27,7 +27,7 @@ layout:
 
 ### AoM Fundamental Model
 
-<figure><img src="../../.gitbook/assets/AoM Model_Level 2.png" alt="AoM Fundamental Layer diagram, four expanded strategy columns, Company Strategy, Brand Strategy, Brand Expression, and Execution (4Ps), each broken into their full sub-categories and fundamentals, with Investment and Data &#x26; Insights, including Market, Performance, and Customer Intelligence, running underneath as supporting layers, and Customer Experience shown as a feedback loop alongside Execution."><figcaption></figcaption></figure>
+{% embed url="https://45277566.fs1.hubspotusercontent-ap1.net/hubfs/45277566/AoM/AoM%20Master%20Models/PNG_HR/AoM_Lvl%202_%20Fundamental%20View_1420x1080.png" %}
 
 ### What is it?
 
