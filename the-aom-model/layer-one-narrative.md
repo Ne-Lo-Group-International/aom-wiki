@@ -51,13 +51,13 @@ Before decisions can be structured or tools applied, teams need a shared underst
 
 ### The Metaphor
 
-<figure><img src="../.gitbook/assets/AoM Model_Level 1_Narrative.png" alt="AoM anatomy metaphor diagram, six body-part icons, Blood Flow, Brain, Heart, Skeleton, Face, and Senses, each mapped down to its corresponding fundamental, Investment, Company Strategy, Brand Strategy, Brand Expression, Execution (4Ps), and Data &#x26; Insights."><figcaption></figcaption></figure>
+{% embed url="https://45277566.fs1.hubspotusercontent-ap1.net/hubfs/45277566/AoM/AoM%20Master%20Models/PNG_HR/AoM_Anatomical%20Parts_1420x1080.png" %}
 
 {% include "../.gitbook/includes/aom-divider.md" %}
 
 ### The Model
 
-<figure><img src="../.gitbook/assets/AoM Model_Level 1.png" alt="AoM Macro Layer diagram, the same four strategy sections, Company Strategy, Brand Strategy, Brand Expression, and Execution (4Ps), shown collapsed with expandable sub-sections, arranged as a cascading sequence of arrows, with Investment and Data &#x26; Insights underneath and Customer Experience as a feedback loop alongside Execution."><figcaption></figcaption></figure>
+{% embed url="https://45277566.fs1.hubspotusercontent-ap1.net/hubfs/45277566/AoM/AoM%20Master%20Models/PNG_HR/AoM_Lvl%201_Macro%20View_1420x1080.png" %}
 
 {% include "../.gitbook/includes/aom-divider.md" %}
 
