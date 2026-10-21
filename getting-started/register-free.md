@@ -52,7 +52,7 @@ Get early member access
 
 <h3 align="center">Join the waitlist</h3>
 
-<p align="center">Register now to get early access when registration opens on 1 August 2026.</p>
+<p align="center">Get early member access</p>
 
 {% embed url="https://qyge6.share-ap1.hsforms.com/2uVhVbFmKR8SFNdxc7fKqtA" %}
 
